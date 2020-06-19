@@ -1,0 +1,2 @@
+Error : Logging 1
+Error : Logging 2
